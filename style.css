@@ -324,14 +324,11 @@ body{
 .star-container{
   display: inline-block;
 }
-.comment hgroup h4{
+.comment div h4{
   position: relative;
   float: right;
   bottom: 35px;
-
-
 }
-
 .title-comment{
  display: inline-block;
 }
